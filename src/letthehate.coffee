@@ -8,7 +8,7 @@
 #   Nick Peelman <nick@peelman.us>
 
 module.exports = (robot) ->
-  robot.hear /.*(i hate|i really hate|).*/i, (msg) ->
+  robot.hear /i hate|i( really)? .* hate/i, (msg) ->
     msg.send('http://i.imgur.com/lH0cWKb.jpg')
 
 
