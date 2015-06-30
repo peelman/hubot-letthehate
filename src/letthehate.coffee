@@ -2,7 +2,7 @@
 #   A hubot script that serves as a conduit for hating things
 #
 # Commands:
-#   (let the hate) - responds with image
+# <text> i [adverbs] hate <text> - responds with let the hate image
 #
 # Author:
 #   Nick Peelman <nick@peelman.us>

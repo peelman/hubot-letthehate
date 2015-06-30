@@ -1,7 +1,7 @@
 {
   "name": "hubot-letthehate",
   "description": "A hubot script that serves as a conduit for hating things",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Nick Peelman <nick@peelman.us>",
   "license": "MIT",
 
@@ -9,12 +9,14 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-letthehate.git"
+    "url": "git://github.com/peelman/hubot-letthehate.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-letthehate/issues"
+    "email": "nick@peelman.us",
+    "url": "https://github.com/peelman/hubot-letthehate/issues"
   },
+
 
   "dependencies": {
   },
